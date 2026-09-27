@@ -16,6 +16,16 @@ HackerRank algorithmic problem-solving solutions completed as part of my 3rd Sem
 | 4 | Compare the Triplets | Basic Implementation | O(1) | O(1) |
 | 5 | Sparse Arrays | Hash Maps / Strings | O(N + Q) | O(N) |
 
+## HackerRank Evidence
+
+### 3-Star Problem Solving Badge
+
+![HackerRank 3-Star Problem Solving Badge](screenshots/problem-solving-3-star.png)
+
+### Accepted Submission
+
+![Diagonal Difference - Accepted](screenshots/diagonal-difference-accepted.png)
+
 ## Solutions
 
 - [Diagonal Difference](./Diagonal-Difference/Solution.java)
